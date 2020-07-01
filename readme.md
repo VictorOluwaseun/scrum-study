@@ -329,6 +329,8 @@ Scrum Processes address the specific activities and flow of a Scrum project. In 
 
 5 Phases describe each process in detail including the associated input, tools and output. Input, tools and output are designated as mandatory while others are designated as optional with desicion to include any optional input, tool or an output depends on a particular project, organization or industry. Input and output are denoted mandantory or important to the successful implemtation of Scrum in any organization.
 
+![processes](/04-Processes.JPG)
+
 ### Initiate
 
 #### Create project vision:
@@ -352,3 +354,83 @@ Normally the product owner is responsible for selecting team members, often does
 The fourth process
 
 In this process, Project Vision Statement serves as the basis for developing Epic
+
+User Group Meetings may be held to develop Epic(s)
+
+#### Create a Prioritized Product Backlog
+
+Epic(s) and Unrefined User Stories refined and elaborated and prioritized to create a Prioritized Product Backlog
+
+The Done Criteria is also established
+
+#### Conduct Release Planning
+
+The Scrum Core Team reviews the User Stories in the Prioritized Product Backlog to develop a Release Planning Schedule which is essentially a phase deployment schedule that can be shared with project stakeholders.
+
+#### Planning and estimate
+
+##### Create User Stories
+
+First process
+
+Create user stories and their related User Story Acceptance Criteria are created
+
+Usually written by the Product Owner
+
+Designed to ensure that the customer's requirements are clearly depicted and understood.
+
+Involves Scrum Team members creating the User Stories.
+
+User stories are incorporated in the Prioritized Product Backlog
+
+MANDATORY - INPUT, TOOLS AND OUTPUT
+
+Estimate User Stories, Commit User Stories and Identify Tasks Processes
+
+Mandatory inputs are :
+
+Scrum Core Team
+
+User Stories
+
+## Scrum Vs Traditional Project Management
+
+How the project is managed
+
+|                         | Scrum                    | Traditional         |
+| ----------------------- | ------------------------ | ------------------- |
+| Emphasis                | People                   | Process             |
+| Size                    | Small to Large           | Large               |
+| Documentation           | Minimal                  | Comprehensive       |
+| Process style           | Iterative                | Linear              |
+| Upfront Planning        | Low                      | High                |
+| Domain                  | Unpredictable            | Predictable         |
+| Perspective to change   | Adaptability             | Sustainability      |
+| Leadership              | Collaborative            | Command and control |
+| Management style        | Decentralized            | Autocratic          |
+| Performance Measurement | Business Value           | Plan conformity     |
+| Return on investment    | Early/throughout project | End of project      |
+
+People: Move the project from idea to reality
+
+Form Scrum Team: In cross-functional teams. Potentially shippable deliverables at the end of each Sprint
+
+Scrum can be used for managing projects of all sizes. Scrum works for most projects in team sizes. Large utilizes multiple Scrum teams.
+
+Scrum is focused on working sofware over comprehensive documentation and that focus on Product increments
+
+Collaboration: Customers, business team, project team. To minimize risk, achieve satisfaction. "What will be done" from "What needs to be done"
+
+Risk Management: Continuous. Product Owner, Scrum Team and Scrum Master determine best approach to handle identified risk
+
+Traditional methods decide approach upfront. Risks are handle upfront even b4 many risks have been identified.
+
+According to Scrum, Deliverables goes to Q&A as it is developed and testing is carried out. With customer value in mind.
+
+Strict controls such as exception criteria and clear definition of done are in place to aviod deviation in the customer requirements.
+
+Scrum believes Product development is a shared value-creation process that needs all the stakeholders working and interacting together to deliver the greatest value. Command and control is the rule of the day in traditional methods.
+
+Value of Customer: Scrum is designed for customer involvement. In traditional methods involvement is limited and can very depending on project.
+
+Scrum is an innovative framework for manageing any type of project.
